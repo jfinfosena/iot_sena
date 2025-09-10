@@ -63,8 +63,8 @@ nav:
   - Inicio: index.md  
   - Contenido:    
       - content/p1.md    
-      - content/p2.md   
-
+      - content/p2.md  
+    
 plugins:
   - search
   # - blog

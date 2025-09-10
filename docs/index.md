@@ -1,33 +1,51 @@
-# Bienvenido a Electrónica y Domótica Práctica
+# Bienvenido a Tecnología Práctica e Innovación
 
-¡Hola y bienvenido a nuestro sitio de demostraciones prácticas!
+¡Hola y bienvenido a nuestro sitio de demostraciones tecnológicas!
 
-## 🏠 Nuestra Misión
+## 🎯 Nuestra Misión
 
-Este sitio está dedicado a **demostrar de manera práctica cómo la electrónica puede transformar nuestros hogares** a través de la domótica. Aquí encontrarás proyectos reales, código funcional y guías paso a paso para implementar soluciones inteligentes en tu hogar.
+Este sitio está dedicado a **demostrar de manera práctica cómo la tecnología moderna puede resolver problemas reales** a través de proyectos innovadores. Aquí encontrarás desde soluciones IoT hasta aplicaciones de inteligencia artificial, con código funcional y guías paso a paso.
 
-## 🔧 ¿Qué es la Domótica?
+## 🔧 Áreas de Enfoque
 
-La domótica es la integración de tecnología y electrónica en el hogar para:
+### Internet de las Cosas (IoT) y Domótica
+La integración de dispositivos inteligentes para:
+- **Automatizar procesos**
+- **Controlar dispositivos remotamente**
+- **Monitorear ambientes en tiempo real**
+- **Optimizar recursos y energía**
 
-- **Automatizar tareas cotidianas**
-- **Mejorar la seguridad y confort**
-- **Optimizar el consumo energético**
-- **Controlar dispositivos de forma remota**
-- **Crear ambientes inteligentes y adaptativos**
+### Inteligencia Artificial y Aplicaciones Web
+Desarrollo de soluciones inteligentes para:
+- **Generación de contenido automatizado**
+- **Interfaces conversacionales**
+- **Procesamiento de lenguaje natural**
+- **Aplicaciones web interactivas**
 
-## 🚀 Lo Que Encontrarás Aquí
+## 🚀 Proyectos Disponibles
 
-### Proyectos Prácticos
-- Sistemas de control de iluminación inteligente
-- Sensores de temperatura y humedad
-- Control remoto de dispositivos via MQTT
-- Automatización con ESP32 y Arduino
-- Integración con asistentes virtuales
+### Proyecto 1: Control IoT con ESP32
+- Control remoto de LED RGB via MQTT
+- Comunicación WiFi y protocolos IoT
+- Integración con brokers públicos
+- Monitoreo en tiempo real
 
-### Tecnologías Utilizadas
+### Proyecto 2: Aplicaciones IA con Streamlit
+- Chat inteligente con Gemini AI
+- Generador automático de correos
+- Interfaces web interactivas
+- Integración con APIs de IA
+
+## 💻 Tecnologías Utilizadas
+
+### Hardware y IoT
 - **Microcontroladores**: ESP32, Arduino
-- **Protocolos de comunicación**: WiFi, MQTT, Bluetooth
-- **Sensores y actuadores**: LEDs RGB, sensores ambientales
+- **Protocolos**: WiFi, MQTT, Bluetooth
+- **Componentes**: LEDs RGB, sensores diversos
 - **Plataformas**: Arduino IDE, PlatformIO
-- **Servicios en la nube**: Brokers MQTT públicos
+
+### Software y IA
+- **Lenguajes**: Python, C++
+- **Frameworks**: Streamlit, Arduino
+- **APIs**: Google Gemini AI
+- **Servicios**: Brokers MQTT, Google Cloud
